@@ -64,6 +64,8 @@ An interactive dashboard is built to visualize key insights such as customer tre
 
 This project demonstrates how customer shopping behavior analysis can transform raw data into actionable business insights. By identifying high-revenue categories, valuable customer segments, and key purchasing patterns, the analysis highlights where businesses should focus their efforts. It reveals that loyal and subscribed customers contribute significantly to revenue, while discounts need to be applied strategically to avoid profit loss. Additionally, factors such as product performance, shipping preferences, seasonal trends, and customer demographics play a crucial role in influencing sales. Overall, the project emphasizes the importance of data-driven decision-making to optimize marketing strategies, improve customer retention, and maximize business growth.
 
+
+## Dashboard
 <img width="1302" height="806" alt="Screenshot 2026-05-03 221555" src="https://github.com/user-attachments/assets/d51f2f50-bf0b-460d-ac0d-98fa649e8de2" />
 
 
