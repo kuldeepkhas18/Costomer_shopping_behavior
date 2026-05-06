@@ -33,6 +33,7 @@ An interactive dashboard is built to visualize key insights such as customer tre
 
 
 
+
 ## Project Insights
 -A few product categories contribute the majority of total revenue
 
