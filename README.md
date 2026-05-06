@@ -1,4 +1,4 @@
-#Coatomer_shopping_behavior
+#Coatomer_shopping_behavior(Interactive Dashboard creation using MS Power BI)
 
 <img width="1302" height="806" alt="Screenshot 2026-05-03 221555" src="https://github.com/user-attachments/assets/d51f2f50-bf0b-460d-ac0d-98fa649e8de2" />
 
